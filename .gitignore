@@ -1,0 +1,5 @@
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore generated executables
+*.out
