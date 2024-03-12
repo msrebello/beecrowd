@@ -3,6 +3,7 @@
     @date: 12/03/2024;
     @name: The Return of Radar;
 
+
 */
 
 #include <stdio.h>
@@ -23,7 +24,7 @@ int main(int argc, char const *argv[])
             scanf("%hu", &number_of_people);
 
             unsigned short orders = how_many_orders(number_of_people);
-            
+
             printf("%hu\n", orders);
         }
 
