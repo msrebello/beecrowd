@@ -1,0 +1,12 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea
+URI-1024.iml
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
